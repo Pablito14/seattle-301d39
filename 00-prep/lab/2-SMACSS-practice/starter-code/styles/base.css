@@ -1,0 +1,63 @@
+  * {
+    font-family: times;
+  }
+
+  body {
+    background: #fff;
+  }
+
+  nav, article, aside, footer section {
+    margin: 0 auto;
+    width: 900px;
+  }
+
+  hr {
+    background-image: url('img/hr-img.gif');
+  }
+
+  h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 2.5em;
+  }
+
+  main p {
+    color: #333;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    text-indent: 30px;
+  }
+
+  input {
+    font-family: 'Patrick Hand', cursive;
+  }
+
+  aside h3 {
+    font-size: 1.6em;
+    color: #555;
+  }
+
+  aside p {
+    width: 65%;
+    text-indent: 0;
+  }
+  
+  aside button {
+    font-family: 'Abel', sans-serif;
+    text-transform: uppercase;
+    background: #b8705a;
+    color: #fff;
+    font-size: 1.2em;
+  }
+  
+  section hr {
+    border-bottom: 1px solid #eee;
+  }
+  
+  
+  footer section p{
+    line-height: 1.5em;
+    color: #aaa;
+  }
+  
+  
+  
